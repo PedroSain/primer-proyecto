@@ -1,0 +1,30 @@
+body{
+    padding-bottom: 80p;
+}
+.deLado{
+    float: left;
+    width: auto;
+    padding-top: 80px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.galeria{
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 33vw;
+}
+
+div.galeria img {
+    width: 90%;
+    height: auto;
+}
+
+.descripcion{
+    padding: 15px;
+    text-align: center;
+}
